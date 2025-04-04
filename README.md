@@ -1,5 +1,7 @@
 # OpenCV Zoo and Benchmark
 
+📌 Note: Work is ongoing to integrate quantized models (PTQ & QAT) for better performance on edge devices. See proposal by @Devanshu07R for GSoC 2025.
+
 A zoo for models tuned for OpenCV DNN with benchmarks on different platforms.
 
 Guidelines:
